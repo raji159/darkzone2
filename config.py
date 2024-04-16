@@ -46,9 +46,9 @@ AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Second
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002001834768"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002064126951')).split()]
 
-# Don't Remove Credit Tg - @darkzonofficial_bot
-# Join My Telegram Channel For Amazing Content https://t.me/darkzonebackup
-# Ask Doubt on telegram @darkzonechat_bot
+# Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @KingVJ01
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
